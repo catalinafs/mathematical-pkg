@@ -81,14 +81,6 @@ trapezoidPerimeter(5, 6, 5, 8);  // 24
 Math.js works on any ES6 compatible JavaScript engine, Chrome, Firefox, Safari, and Edge.
 
 
-## Documentation
-
-- [Getting Started](https://mathematical-pkg.org/docs/getting_started.html)
-- [Examples](https://mathematical-pkg.org/examples/index.html)
-- [Overview](https://mathematical-pkg.org/docs/index.html)
-- [History](https://mathematical-pkg.org/history.html)
-
-
 ## Build
 
 First clone the project from github:
