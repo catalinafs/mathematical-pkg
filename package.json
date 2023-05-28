@@ -3,6 +3,11 @@
   "version": "1.0.1",
   "description": "Mathematical package with basic operations",
   "main": "index",
+  "homepage": "https://github.com/catalinafs/DocumentationPage_mathematical-pkg",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/catalinafs/mathematical-pkg"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
